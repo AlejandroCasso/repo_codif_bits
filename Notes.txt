@@ -1,0 +1,6 @@
+Repositorio: Conjunto de archivos sobre el cuál se hará el control de versiones para hacer su registro histórico.
+
+GitHub: Servicio online que permite tener el repositorio local, almacenarlo junto con las progresiones en el tiempo.
+Plataforma que permite manejar proyectos de Git en la nube.
+
+Crear repositorio de git localmente / inicializarlo -> cd <ruta del directorio>
